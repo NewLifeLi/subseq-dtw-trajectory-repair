@@ -37,6 +37,7 @@
 
 ## 📢 License & Copyright
 ## 📢 版权声明
+本项目可支持个性化修改与交付，如有项目需求可联系我
 
 This is an original work by the author. All contents—including code, documentation, and research report—are for academic display and non-commercial purposes only. Unauthorized copying, citation, or commercial usage is strictly prohibited. For collaboration or permission, please contact the author.
 All rights reserved. Unauthorized reproduction or distribution of this project, in whole or in part, is strictly prohibited.
@@ -44,3 +45,11 @@ All rights reserved. Unauthorized reproduction or distribution of this project, 
 本项目不开放源代码授权，禁止转载、复制、传播或用于教学、培训、竞赛或商业用途。本项目仅用于作者个人展示，保留一切权利。
 
 ⚠️ 本项目已于 2025-04-09 22:47:21 提交至 船视宝杯第二十届全国交通运输科技大赛 比赛，仅作为个人开发展示之用途，未用于任何其他平台参赛、发布或评奖。
+
+
+
+
+
+
+
+
