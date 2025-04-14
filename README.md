@@ -2,6 +2,8 @@
 
 # 子序列 DTW 引导下的残缺轨迹补全系统
 
+**本项目可支持个性化修改与交付，如有项目需求可联系我**
+
 本项目通过 MATLAB 实现一种基于子序列动态时间规整（Subsequence DTW）和 LSTM 深度学习模型的轨迹补全方法，解决 AIS 船舶数据中因信号中断导致的轨迹缺失问题。
 
 ## 📌 项目特色
@@ -37,7 +39,7 @@
 
 ## 📢 License & Copyright
 ## 📢 版权声明
-本项目可支持个性化修改与交付，如有项目需求可联系我
+
 
 This is an original work by the author. All contents—including code, documentation, and research report—are for academic display and non-commercial purposes only. Unauthorized copying, citation, or commercial usage is strictly prohibited. For collaboration or permission, please contact the author.
 All rights reserved. Unauthorized reproduction or distribution of this project, in whole or in part, is strictly prohibited.
