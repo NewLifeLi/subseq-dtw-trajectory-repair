@@ -43,6 +43,7 @@
 
 This is an original work by the author. All contents—including code, documentation, and research report—are for academic display and non-commercial purposes only. Unauthorized copying, citation, or commercial usage is strictly prohibited. For collaboration or permission, please contact the author.
 All rights reserved. Unauthorized reproduction or distribution of this project, in whole or in part, is strictly prohibited.
+
 本项目为原创作品，所有内容（包括代码、报告、模型设计与说明文档）均由作者独立完成，仅用于学习展示与学术交流用途。未经作者允许，禁止转载、引用或用于任何形式的商业用途。若需引用或使用本项目成果，请联系作者获取授权。
 本项目不开放源代码授权，禁止转载、复制、传播或用于教学、培训、竞赛或商业用途。本项目仅用于作者个人展示，保留一切权利。
 
