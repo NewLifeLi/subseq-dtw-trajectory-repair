@@ -62,7 +62,8 @@ All rights reserved. Unauthorized reproduction or distribution of this project, 
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NewLifeLi/subseq-dtw-trajectory-repair&type=Date&t=1)](https://star-history.com/#NewLifeLi/subseq-dtw-trajectory-repair&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NewLifeLi/subseq-dtw-trajectory-repair&type=Date&cache=20250415)](https://star-history.com/#NewLifeLi/subseq-dtw-trajectory-repair&Date)
+
 
 
 
