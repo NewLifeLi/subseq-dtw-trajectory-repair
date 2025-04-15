@@ -57,7 +57,9 @@ All rights reserved. Unauthorized reproduction or distribution of this project, 
 ⚠️ 本项目已于 2025-04-09 22:47:21 提交至 船视宝杯第二十届全国交通运输科技大赛 比赛，仅作为个人开发展示之用途，未用于任何其他平台参赛、发布或评奖。
 
 
+## ⭐ Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=NewLifeLi/subseq-dtw-trajectory-repair&type=Date)](https://star-history.com/#NewLifeLi/subseq-dtw-trajectory-repair&Date)
 
 
 
