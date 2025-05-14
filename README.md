@@ -11,7 +11,7 @@
 
 📧 Email: linyuli642@gmail.com 
 
-本项目通过 MATLAB 实现一种基于子序列动态时间规整（Subsequence DTW）和 LSTM 深度学习模型的轨迹补全方法，解决 AIS 船舶数据中因信号中断导致的轨迹缺失问题。
+本项目通过 MATLAB 实现一种基于子序列动态时间规整（Subsequence DTW）和 LSTM 深度学习模型的轨迹补全方法，解决 AIS 船舶数据中因信号中断等因素导致的长段轨迹缺失问题。
 
 ## 📌 项目特色
 
